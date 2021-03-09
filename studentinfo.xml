@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="student.css"?>
+<students>
+    <heading>
+        WELCOME TO RVCE STUDENT PORTAL!!
+    </heading>
+    <STUDENT>
+        <name>Name:Kavana KN</name>
+        <usn>USN:20MCA021</usn>
+        <email>Email:kavana.mca20@rvce.edu.in</email>
+        <mobile>Mobile NO:9538951233</mobile>
+        <ugdegree>UG-Degree:BCA</ugdegree>
+        
+    </STUDENT>
+    <STUDENT>
+        <name>Name:Pavithra R</name>
+        <usn>USN:20MCA023</usn>
+        <email>Email:pavithra.mca20@rvce.edu.in</email>
+        <mobile>Mobile NO:9538951233</mobile>
+        <ugdegree>UG-Degree:BCA</ugdegree>
+        
+    </STUDENT>
+    <STUDENT>
+        <name>Name:Rodrigues Rinela</name>
+        <usn>USN:20MCA024</usn>
+        <email>Email:rinela.mca20@rvce.edu.in</email>
+        <mobile>Mobile NO:9538951233</mobile>
+        <ugdegree>UG-Degree:BCA</ugdegree>
+        
+    </STUDENT>
+    <STUDENT>
+        <name>Name:Flevia D'silva</name>
+        <usn>USN:20MCA025</usn>
+        <email>Email:flevia.mca20@rvce.edu.in</email>
+        <mobile>Mobile NO:9538951233</mobile>
+        <ugdegree>UG-Degree:BCA</ugdegree>
+        
+    </STUDENT>
+    <STUDENT>
+        <name>Name:Delphin Lopies</name>
+        <usn>USN:20MCA026</usn>
+        <email>Email:delphin.mca20@rvce.edu.in</email>
+        <mobile>Mobile NO:9538951233</mobile>
+        <ugdegree>UG-Degree:BCA</ugdegree>
+        
+    </STUDENT>
+</students> 

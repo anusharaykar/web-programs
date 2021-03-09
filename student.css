@@ -1,0 +1,29 @@
+students{
+background-color: gainsboro;
+}
+heading{
+font-size:30px;
+text-decoration:underline;
+color:darkblue;
+background-color:lightgrey;
+width:100%;
+margin:250px;
+text-shadow:0px 1px 2px;
+}
+
+name,usn,ugdegree,mobile,email{
+font-style:bolder;
+font-size:20px;
+display:block;
+margin:12px 60px;
+font-style:italic;
+color: darkblue;
+font-family: sans-serif;
+
+}
+
+name{
+background-color: darkolivegreen;
+width:20%;
+color:darkblue;
+}
